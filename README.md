@@ -6,6 +6,7 @@ An intelligent AI Agent that acts as your personal code reviewer. Powered by Lla
 
 This Agent is designed to "read" your code, understand its structure, and find complex patterns just like a senior human engineer would. To make it widely accessible, this agent is wrapped in a modern, interactive web interface.
 
+
 ### Agent Capabilities
 - **Intelligent Parsing:** Feed the agent code directly, upload files, or provide an entire workspace file tree for review.
 - **Polyglot Analysis:** Autonomously detects and reviews a wide variety of programming languages (JavaScript, Python, Java, C++, Go, Rust, etc.).
@@ -32,3 +33,5 @@ This Agent is designed to "read" your code, understand its structure, and find c
    npm start
    ```
    *This command starts both the agent's background script engine and the user-facing interface concurrently.*
+
+ 
